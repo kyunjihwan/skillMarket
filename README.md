@@ -3,7 +3,7 @@
 </div>
 
 ## 프로젝트 소개
-![image]()
+![image](https://github.com/d0-6lue/skillMarket/assets/101509467/2aa608bc-4b04-49e7-aede-a08c4537235e)
 
 
 ## 📅 프로젝트 기간
