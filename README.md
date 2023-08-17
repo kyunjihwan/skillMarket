@@ -15,7 +15,7 @@
 ## 🧱 프로젝트 설계
 
 ### ERD
-![erd]()
+![skillMarketErd](https://github.com/d0-6lue/skillMarket/assets/101509467/5f1f3b4e-21a4-4350-aa0b-4091a582c4da)
 
 ### UI &nbsp; 🔗 [Figma Link](https://www.figma.com/file/D0hjJdEttwORbS5kUlh1iP/%EC%8A%A4%ED%82%AC%EB%A7%88%EC%BC%93?node-id=0%3A1&mode=dev)
 <br>
