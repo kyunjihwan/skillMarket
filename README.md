@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=_#3258A3&height=200&section=header&text=SkillMarket&fontSize=90" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=_(#3258A3)&height=200&section=header&text=SkillMarket&fontSize=90" />	
 </div>
 
 ## 프로젝트 소개
